@@ -6,7 +6,7 @@
   xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities"
   IgnorableNamespaces="uap rescap">
 
-  <Identity Name="maui-package-name-placeholder" Publisher="CN=User Name" Version="0.0.0.0" />
+  <Identity Name="MauiCameraMauiBarcodeSample" Publisher="CN=YourPublisher" Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="95EF750B-4B7C-45F9-B424-6D7E9A7643CE" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
