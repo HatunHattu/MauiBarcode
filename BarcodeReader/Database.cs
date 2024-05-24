@@ -1,5 +1,6 @@
 ﻿using MySql.Data;
 using MySql.Data.MySqlClient;
+using ZXing.Net.Maui;
 
 namespace Data
 {
@@ -34,7 +35,6 @@ namespace Data
                 Connection = new MySqlConnection(connstring);
                 Connection.Open();
             }
-
             return true;
         }
 
